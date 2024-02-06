@@ -1,0 +1,57 @@
+repo_name: aaronkim5/kanban-app
+report_id: e086433794ed16b9eb5214c4b917e11b
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-06T18:43:33+00:00'
+requested_by: aaronkim5
+provider: github
+branch: master
+detected_tools_count: 4
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/aaronkim5/kanban-app
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/aaronkim5/kanban-app
+  detection_source: Repo Metadata
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 2.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/aaronkim5/kanban-app/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-05-31 07:35:26.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/aaronkim5/kanban-app/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Aaron Kim
+  last_updated_on: 2017-05-31 07:25:37.000000000 Z
